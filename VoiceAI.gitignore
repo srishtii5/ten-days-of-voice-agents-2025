@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.env.local
+.env
+*.sqlite3
+
+# Node.js
+node_modules/
+pnpm-lock.yaml
+
+# OS files
+.DS_Store
+Thumbs.db
